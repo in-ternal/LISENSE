@@ -1,7 +1,7 @@
-[
+
     {
-        "device_id": "27a078ae3454bfd9",
-        "key": "pal",
+        "device_id": "device123",
+        "key": "key12345",
         "expirydate": "31-12-2099",
         "Allowoffline": true
     },
